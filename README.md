@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preshendren Clinton Pillay</h1>
-<h3 align="center">Experienced IT manager, who is looking to make the transition into the Devosps sphere.</h3>
+<h3 align="center">Experienced IT manager, transitioning into the Devosps sphere.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clinton-pillay7" alt="clinton-pillay7" /></a> </p>
 
