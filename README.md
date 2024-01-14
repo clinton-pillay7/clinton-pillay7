@@ -15,10 +15,6 @@
 
 - 📄 Know about my experiences [https://medium.com/@clinton.bitcoin](https://medium.com/@clinton.bitcoin)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/preshendren-pillay-272052197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preshendren-pillay-272052197" height="30" width="40" /></a>
